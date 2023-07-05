@@ -67,3 +67,16 @@ async function sendUserStatistics() {
 - Markdown CV. The CV you are reading was created as part of an internship project.
 
 ---
+
+## COURSES
+
+1. RSSchool Front-End Stage 0
+2. CodeAcademy JavaScript Algorithms and Data Structures (in progress)
+
+---
+
+## LANGUAGES
+
+- Russian (Native)
+- English (B2)
+- Japanese (N5)
