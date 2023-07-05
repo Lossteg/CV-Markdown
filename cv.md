@@ -59,6 +59,8 @@ async function sendUserStatistics() {
 }
 ```
 
+---
+
 ## EXPERIENCE
 
 - University project "Japanese language cards" on WinForms C#. The project was aimed at developing basic C# programming skills.
