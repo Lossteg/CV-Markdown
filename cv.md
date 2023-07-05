@@ -1,5 +1,7 @@
 # Machulskaya Anastasiya
 
+![Profile Picture](img/personal%20photo.jpg)
+
 ---
 
 ## CONTACT
