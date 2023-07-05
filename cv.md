@@ -59,4 +59,11 @@ async function sendUserStatistics() {
 }
 ```
 
+## EXPERIENCE
+
+- University project "Japanese language cards" on WinForms C#. The project was aimed at developing basic C# programming skills.
+- University database project "Data Basis of an HR-specialist". The project was aimed at developing skills related to database design and optimization.
+- HTML + CSS CV. This project was part of a course from Rolling Scopes School and was done to practice HTML and CSS skills.
+- Markdown CV. The CV you are reading was created as part of an internship project.
+
 ---
