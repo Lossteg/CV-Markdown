@@ -8,6 +8,7 @@
 
 - Phone: +375 (33) 384-14-50
 - Email: <losteg29@yandex.ru>
+- LinkedIn: <https://www.linkedin.com/in/anastasiya-machulskaya-8b06b9232/>
 - Address: Belarus, Mogilev
 
 ---
